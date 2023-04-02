@@ -6,10 +6,11 @@
 
 ## Images
 
-<img src='./public/amazon 1.png' />
-<img src='./public/amazon 2.png' />
+<img src='./>
+
 <img src='./public/amazon3.png' />
 
+![amazon 1](https://user-images.githubusercontent.com/103983412/229346508-9de91c56-b188-47fa-be9f-f75a801634ee.png)
 
 ## Run Locally
 
