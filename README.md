@@ -8,8 +8,10 @@
 
 ## Images
 
-<img src='./public/home.png' />
-<img src='./public/checkout.png' />
+<img src='./public/amazon 1.png' />
+<img src='./public/amazon 2.png' />
+<img src='./public/amazon3.png' />
+
 
 ## Run Locally
 
