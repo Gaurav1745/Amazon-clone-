@@ -20,4 +20,5 @@
 
 - React.js
 - CSS3
+- Node js
 - Firebase
