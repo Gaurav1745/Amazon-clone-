@@ -2,9 +2,7 @@
 
 ### _Amazon Clone built using ReactJs and Firebase hope you like it. Tweak it and use it !!_
 
-### Learned from : Clever Programmer :link: https://youtu.be/1_IYL9ZMR_Y
-
-### Link :link: https://amazon-reactjs-clone.netlify.app/
+### Link :link: https://gaurav-amazon-clone.netlify.app//
 
 ## Images
 
@@ -15,7 +13,7 @@
 
 ## Run Locally
 
-- Run this command `git clone https://github.com/developer-junaid/Amazon-React-Clone.git`
+- Run this command `git clone https://github.com/Gaurav1745/Amazon-clone-.git`
 - You are now in the dev environment and you can play around
 
 ## Tech Stack
