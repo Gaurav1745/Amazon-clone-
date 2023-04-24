@@ -1,6 +1,6 @@
 ## 👨‍💻 Amazon Clone
 
-### _Amazon Clone built using ReactJs and Firebase hope you like it. Tweak it and use it !!_
+## Amazon Clone built using ReactJs and Firebase hope you like it. Tweak it and use it !!_
 
 ### Link :link: https://gauravs-amazon-clone.netlify.app//
 
