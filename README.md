@@ -3,7 +3,8 @@
 
 # Amazon Clone built using ReactJs and Firebase hope you like it. Tweak it and use it !!_
 
-### Link :link: https://gauravs-amazon-clone.netlify.app//
+### Demo of the project
+link: https://gauravs-amazon-clone.netlify.app//
 
 ## Screenshot of how the project looks :)
 
