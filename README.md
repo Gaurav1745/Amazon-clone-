@@ -6,7 +6,7 @@
 
 <br>
 
-# Demo of the project
+# Demo of the project :)
 link: https://gauravs-amazon-clone.netlify.app//
 
 
