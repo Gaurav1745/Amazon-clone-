@@ -7,7 +7,7 @@
 <br>
 
 # Demo of the project 
-link: https://gauravs-amazon-clone.netlify.app//
+link: https://gauravs-amazon-clone.netlify.app/
 
 
 <br>
