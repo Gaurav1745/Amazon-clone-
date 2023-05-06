@@ -1,7 +1,7 @@
 # 👨‍💻 E-commerce web application
 <br>
 
-## Amazon Clone built using ReactJs and Firebase hope you like it. Tweak it and use it !
+ Amazon Clone built using ReactJs and Firebase hope you like it. Tweak it and use it !
 <br>
 
 <br>
